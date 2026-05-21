@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Command AI",
+  "description": "AI-powered real-time traffic command and control dashboard interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
